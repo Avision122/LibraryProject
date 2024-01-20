@@ -1,0 +1,57 @@
+﻿@model Projekt_studia2.Models.BooksViewModel
+
+<h2>Lista książek</h2>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+}
+<form asp-controller="Books" asp-action="Index" method="get">
+    <div class="form-group">
+        <label for="searchQuery">Szukaj książki:</label>
+        <input type="text" id="searchQuery" name="query" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary custom-btn2">Szukaj</button>
+</form>
+
+<table class="table white-table">
+    <thead>
+        <tr>
+            <th>Tytuł</th>
+            <th>Autor</th>
+            <th>Rok Wydania</th>
+            <th>Dostępne Kopie</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model.Books)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+                <td>@book.Year</td>
+                <td>@book.AvailableCopies</td>
+                <td>
+                    @if (book.AvailableCopies > 0)
+                    {
+                        <form asp-controller="Books" asp-action="Rent" method="post">
+                            <button type="submit" class="btn btn-primary">Wypożycz</button>
+                            <input type="hidden" name="bookId" value="@book.ID" />
+                        </form>
+                    }
+                    else
+                    {
+                        <span class="text-danger">Brak dostępnych kopii</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

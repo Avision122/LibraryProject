@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Projekt_studia2.Book>
+
+<h2>Usuń książkę</h2>
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["ErrorMessage"]
+    </div>
+}
+<form asp-controller="Books" asp-action="DeleteBook" method="get">
+    <div class="form-group">
+        <label for="searchQuery">Szukaj książki:</label>
+        <input type="text" id="searchQuery" name="query" class="form-control" value="@ViewData["Query"]" />
+    </div>
+    <button type="submit" class="btn btn-primary custom-btn">Szukaj</button>
+</form>
+<table class="table white-table">
+    <thead>
+        <tr>
+            <th>Tytuł</th>
+            <th>Autor</th>
+            <th>Rok wydania</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+                <td>@book.Year</td>
+                <td>
+                    <form asp-controller="Books" asp-action="DeleteBookConfirmed" method="post">
+                        <input type="hidden" name="bookId" value="@book.ID" />
+                        <button type="submit" class="btn btn-danger custom-btn-dec" onclick="return confirm('Czy jesteś pewny, że chcesz usunąć tę książkę?');">Usuń</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

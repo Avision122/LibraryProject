@@ -1,0 +1,21 @@
+﻿@model ReturnBookViewModel
+
+<h2>Zwróć książkę</h2>
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+}
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+}
+<form asp-controller="Books" asp-action="ProcessReturn" method="post">
+    <div class="form-group">
+        <label for="SelectedRentalId">Wybierz książkę do zwrotu:</label>
+        <select asp-for="SelectedRentalId" asp-items="Model.Rentals" class="form-control">
+            <option value="">-- Wybierz książkę --</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary custom-btn">Zwróć książkę</button>
+</form>

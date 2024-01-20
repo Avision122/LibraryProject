@@ -1,0 +1,44 @@
+﻿@model List<ReturnQueue>
+
+<h2>Żądania zwrotu książek</h2>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+}
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+}
+
+<table class="table white-table">
+    <thead>
+        <tr>
+            <th>Tytuł książki</th>
+            <th>Użytkownik</th>
+            <th>Data żądania</th>
+            <th>Akcje</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var request in Model)
+        {
+            <tr>
+                <td>@request.Book.Title</td>
+                <td>@request.UserLogin</td>
+                <td>@request.RequestDate.ToString("dd.MM.yyyy")</td>
+                <td>
+                    <form asp-action="AcceptReturn" asp-controller="Books" method="post">
+                        <input type="hidden" name="RequestId" value="@request.Id" />
+                        <input type="submit" value="Akceptuj" class="btn btn-success custom-btn-acc" />
+                    </form>
+                    <form asp-action="RejectReturn" asp-controller="Books" method="post">
+                        <input type="hidden" name="RequestId" value="@request.Id" />
+                        <input type="submit" value="Odrzuć" class="btn btn-danger custom-btn-dec" />
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

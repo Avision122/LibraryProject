@@ -1,0 +1,57 @@
+﻿@model IEnumerable<RentalQueue>
+
+<h2>Prośby o Wypożyczenie Książek</h2>
+
+@if (Model != null && Model.Any())
+{
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+    }
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+    }
+    <table class="table white-table">
+        <thead>
+            <tr>
+                <th>Tytuł Książki</th>
+                <th>Użytkownik</th>
+                <th>Akcje</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var request in Model)
+            {
+                <tr>
+                    <td>@request.BookTitle</td>
+                    <td>@request.UserLogin</td>
+                    <td>
+                        <form asp-controller="Books" asp-action="AcceptRental" method="post">
+                            <input type="hidden" name="requestId" value="@request.ID" />
+                            <button type="submit" class="btn btn-success custom-btn-acc">Akceptuj</button>
+                        </form>
+                        <form asp-controller="Books" asp-action="RejectRental" method="post">
+                            <input type="hidden" name="requestId" value="@request.ID" />
+                            <button type="submit" class="btn btn-danger custom-btn-dec">Odrzuć</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+    }
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+    }
+    <p>Brak prośb o wypożyczenie.</p>
+}

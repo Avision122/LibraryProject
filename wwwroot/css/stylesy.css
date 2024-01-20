@@ -1,0 +1,149 @@
+
+body {
+    background-color: #966645; 
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.navbar {
+    background-color: #dcb48e; 
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.navbar-brand {
+    color: #3e2723; 
+}
+
+.navbar-nav {
+    margin-left: auto; 
+}
+
+    .navbar-nav .nav-link {
+        color: #3e2723; 
+    }
+
+    .navbar-nav .nav-item {
+        border: 2px solid #000; 
+        margin: 2px 0 2px 1px; 
+    }
+
+    .navbar-nav .nav-link {
+        padding: 5px 15px; 
+    }
+
+.navbar-toggler-icon {
+    background-color: black; 
+}
+
+.container {
+    background-color: #fff; 
+    border-radius: 10px; 
+    padding: 20px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    margin-top: 20px; 
+    color: white;
+    flex: 1;
+    margin-bottom: 20px; 
+}
+
+.footer {
+    background-color: #dcb48e; 
+    padding: 10px; 
+    height: 40px; 
+    border-radius: 10px 10px 0 0; 
+    text-align: right;
+    
+}
+
+.container-background {
+    background-color: #523510; 
+    padding: 20px; 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    margin-top: 20px; 
+}
+
+.white-table {
+    color: white;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+    .white-table th, .white-table td {
+        border: 1px solid white;
+        padding: 8px;
+        text-align: left;
+    }
+
+    .white-table th {
+        background-color: #343a90; 
+    }
+
+    .white-table tbody tr:nth-child(odd) {
+        background-color: #495057; 
+    }
+
+    .white-table tbody tr:nth-child(even) {
+        background-color: #343a40; 
+    }
+
+    .white-table tbody tr:hover {
+        background-color: #343a90; 
+    }
+.custom-btn {
+    background-color: grey; 
+    color: #fff; 
+    padding: 10px 20px; 
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px; 
+}
+
+
+.custom-btn2 {
+    background-color: grey; 
+    color: #fff; 
+    
+    padding: 10px 20px; 
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px; 
+}
+.custom-btn-acc {
+    background-color: green;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 100px;
+    lenght: 50px;
+}
+.custom-btn-dec {
+    background-color: red;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 100px;
+    lenght: 50px;
+}

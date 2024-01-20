@@ -1,0 +1,23 @@
+﻿@model IEnumerable<RentalViewModel>
+
+<h2>Moje wypożyczenia</h2>
+
+<table class="table white-table">
+    <thead>
+        <tr>
+            <th>Tytuł książki</th>
+            <th>Data wypożyczenia</th>
+            <th>Pozostały maksymalny czas do zwrotu</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var rental in Model)
+        {
+            <tr>
+                <td>@rental.BookTitle</td>
+                <td>@rental.StartDate.ToShortDateString()</td>
+                <td>@rental.TimeRemaining dni</td>
+            </tr>
+        }
+    </tbody>
+</table>

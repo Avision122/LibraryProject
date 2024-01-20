@@ -1,0 +1,24 @@
+﻿@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+<h2>Usuń użytkownika</h2>
+
+<form asp-controller="Account" asp-action="DeleteUserConfirmed" method="post">
+    <div class="form-group">
+        <label for="userId">Wybierz użytkownika:</label>
+        <select id="userId" name="userId" class="form-control">
+            <option value="">Wybierz użytkownika</option>
+            @foreach (var user in Model)
+            {
+                <option value="@user.ID">@user.Username</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-danger custom-btn-dec" onclick="return confirm('Czy jesteś pewny, że chcesz usunąć tego użytkownika?');">Usuń</button>
+    </div>
+</form>

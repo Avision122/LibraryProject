@@ -1,0 +1,37 @@
+﻿@model UserRentalsViewModel
+
+<h2>Wybierz użytkownika do wyświetlenia wypożyczeń:</h2>
+
+<form asp-controller="Books" asp-action="DisplayUserRentals" method="post">
+    <input type="text" asp-for="SelectedUsername" class="form-control" required placeholder="Wpisz nazwę użytkownika" />
+    <input type="submit" value="Wyświetl wypożyczenia" class="btn btn-primary custom-btn" />
+</form>
+
+
+@if (Model.Rentals.Any())
+{
+    <h2>Wypożyczenia użytkownika: @Model.SelectedUsername</h2>
+    <table class="table white-table">
+        <thead>
+            <tr>
+                <th>Tytuł książki</th>
+                <th>Data wypożyczenia</th>
+                <th>Pozostały maksymalny czas do zwrotu</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var rental in Model.Rentals)
+            {
+                <tr>
+                    <td>@rental.BookTitle</td>
+                    <td>@rental.StartDate.ToString("dd-MM-yyyy")</td>
+                    <td>@rental.RemainingDays dni</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Brak wypożyczeń dla tego użytkownika.</p>
+}
