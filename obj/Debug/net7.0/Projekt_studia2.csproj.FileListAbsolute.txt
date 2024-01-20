@@ -1,0 +1,602 @@
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\bin\Debug\net7.0\appsettings.json
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.staticwebassets.runtime.json
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.exe
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.deps.json
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.runtimeconfig.json
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfoInputs.cache
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfo.cs
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CoreCompileInputs.cache
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cache
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cs
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.Projekt_studia2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.build.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\obj\Debug\net7.0\scopedcss\bundle\Projekt_studia2.styles.css
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\obj\Debug\net7.0\scopedcss\projectbundle\Projekt_studia2.bundle.scp.css
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\obj\Debug\net7.0\refint\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.genruntimeconfig.cache
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\obj\Debug\net7.0\ref\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.AssemblyReference.cache
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CopyComplete
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\bin\Debug\net7.0\Humanizer.dll
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\alekh\OneDrive\Pulpit\Projekt_studia2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\bin\Debug\net7.0\appsettings.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.staticwebassets.runtime.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.exe
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.deps.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.runtimeconfig.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\bin\Debug\net7.0\Humanizer.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.AssemblyReference.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfoInputs.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfo.cs
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CoreCompileInputs.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cs
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.Projekt_studia2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.build.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\obj\Debug\net7.0\scopedcss\bundle\Projekt_studia2.styles.css
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\obj\Debug\net7.0\scopedcss\projectbundle\Projekt_studia2.bundle.scp.css
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CopyComplete
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\obj\Debug\net7.0\refint\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.genruntimeconfig.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia 2\Projekt_studia2\obj\Debug\net7.0\ref\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\bin\Debug\net7.0\appsettings.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.staticwebassets.runtime.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.exe
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.deps.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.runtimeconfig.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\bin\Debug\net7.0\Humanizer.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.AssemblyReference.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfoInputs.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfo.cs
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CoreCompileInputs.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cs
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.Projekt_studia2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.build.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\obj\Debug\net7.0\scopedcss\bundle\Projekt_studia2.styles.css
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\obj\Debug\net7.0\scopedcss\projectbundle\Projekt_studia2.bundle.scp.css
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CopyComplete
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\obj\Debug\net7.0\refint\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.genruntimeconfig.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia 5\Projekt_studia2\obj\Debug\net7.0\ref\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\bin\Debug\net7.0\appsettings.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.staticwebassets.runtime.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.exe
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.deps.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.runtimeconfig.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\bin\Debug\net7.0\Humanizer.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.AssemblyReference.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfoInputs.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfo.cs
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CoreCompileInputs.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cs
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.Projekt_studia2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.build.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\obj\Debug\net7.0\scopedcss\bundle\Projekt_studia2.styles.css
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\obj\Debug\net7.0\scopedcss\projectbundle\Projekt_studia2.bundle.scp.css
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CopyComplete
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\obj\Debug\net7.0\refint\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.genruntimeconfig.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia1\Projekt_studia2\obj\Debug\net7.0\ref\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\appsettings.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.staticwebassets.runtime.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.exe
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.deps.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.runtimeconfig.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Humanizer.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.AssemblyReference.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfoInputs.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfo.cs
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CoreCompileInputs.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cs
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.Projekt_studia2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.build.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\scopedcss\bundle\Projekt_studia2.styles.css
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\scopedcss\projectbundle\Projekt_studia2.bundle.scp.css
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CopyComplete
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\refint\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.genruntimeconfig.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\ref\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\bin\Debug\net7.0\appsettings.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.staticwebassets.runtime.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.exe
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.deps.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.runtimeconfig.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Humanizer.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.AssemblyReference.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfoInputs.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfo.cs
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CoreCompileInputs.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cs
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.Projekt_studia2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.build.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\obj\Debug\net7.0\scopedcss\bundle\Projekt_studia2.styles.css
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\obj\Debug\net7.0\scopedcss\projectbundle\Projekt_studia2.bundle.scp.css
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CopyComplete
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\obj\Debug\net7.0\refint\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.genruntimeconfig.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2)\Projekt_studia2\obj\Debug\net7.0\ref\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\bin\Debug\net7.0\appsettings.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.staticwebassets.runtime.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.exe
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.deps.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.runtimeconfig.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\bin\Debug\net7.0\Humanizer.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.AssemblyReference.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfoInputs.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfo.cs
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CoreCompileInputs.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cs
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.Projekt_studia2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.build.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\obj\Debug\net7.0\scopedcss\bundle\Projekt_studia2.styles.css
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\obj\Debug\net7.0\scopedcss\projectbundle\Projekt_studia2.bundle.scp.css
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CopyComplete
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\obj\Debug\net7.0\refint\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.genruntimeconfig.cache
+C:\Users\alekh\OneDrive\Pulpit\Kopia1 — kopia — kopia — kopia — kopia — kopia — kopia (2) — kopia\Projekt_studia2\obj\Debug\net7.0\ref\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\bin\Debug\net7.0\appsettings.json
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.staticwebassets.runtime.json
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.exe
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.deps.json
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.runtimeconfig.json
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\bin\Debug\net7.0\Humanizer.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.AssemblyReference.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfoInputs.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfo.cs
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CoreCompileInputs.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cs
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.Projekt_studia2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.build.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\obj\Debug\net7.0\scopedcss\bundle\Projekt_studia2.styles.css
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\obj\Debug\net7.0\scopedcss\projectbundle\Projekt_studia2.bundle.scp.css
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CopyComplete
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\obj\Debug\net7.0\refint\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.genruntimeconfig.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig\Projekt_studia2\obj\Debug\net7.0\ref\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\bin\Debug\net7.0\appsettings.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.staticwebassets.runtime.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.exe
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.deps.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.runtimeconfig.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Humanizer.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.AssemblyReference.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfoInputs.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfo.cs
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CoreCompileInputs.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cs
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.Projekt_studia2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.build.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\obj\Debug\net7.0\scopedcss\bundle\Projekt_studia2.styles.css
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\obj\Debug\net7.0\scopedcss\projectbundle\Projekt_studia2.bundle.scp.css
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CopyComplete
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\obj\Debug\net7.0\refint\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.genruntimeconfig.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (2)\Projekt_studia2\obj\Debug\net7.0\ref\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\appsettings.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.staticwebassets.runtime.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.exe
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.deps.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.runtimeconfig.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Humanizer.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.AssemblyReference.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfoInputs.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfo.cs
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CoreCompileInputs.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cs
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.Projekt_studia2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.build.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\scopedcss\bundle\Projekt_studia2.styles.css
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\scopedcss\projectbundle\Projekt_studia2.bundle.scp.css
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CopyComplete
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\refint\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.genruntimeconfig.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\ref\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\appsettings.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.staticwebassets.runtime.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.exe
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.deps.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.runtimeconfig.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Humanizer.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.AssemblyReference.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfoInputs.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfo.cs
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CoreCompileInputs.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cs
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.Projekt_studia2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.build.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\scopedcss\bundle\Projekt_studia2.styles.css
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\scopedcss\projectbundle\Projekt_studia2.bundle.scp.css
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CopyComplete
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\refint\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.genruntimeconfig.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\ref\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\appsettings.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.staticwebassets.runtime.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.exe
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.deps.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.runtimeconfig.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Humanizer.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.AssemblyReference.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfoInputs.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfo.cs
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CoreCompileInputs.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cs
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.Projekt_studia2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.build.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\scopedcss\bundle\Projekt_studia2.styles.css
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\scopedcss\projectbundle\Projekt_studia2.bundle.scp.css
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CopyComplete
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\refint\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.genruntimeconfig.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\ref\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\appsettings.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.staticwebassets.runtime.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.exe
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.deps.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.runtimeconfig.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Humanizer.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.AssemblyReference.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfoInputs.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfo.cs
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CoreCompileInputs.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cs
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.Projekt_studia2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.build.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Projekt_studia2.props
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\scopedcss\bundle\Projekt_studia2.styles.css
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\scopedcss\projectbundle\Projekt_studia2.bundle.scp.css
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CopyComplete
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\refint\Projekt_studia2.dll
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.genruntimeconfig.cache
+C:\Users\alekh\OneDrive\Pulpit\Orig — kopia (3) — kopia — kopia — kopia — kopia — kopia — kopia — kopia\Projekt_studia2\obj\Debug\net7.0\ref\Projekt_studia2.dll
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\bin\Debug\net7.0\appsettings.json
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.staticwebassets.runtime.json
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.exe
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.deps.json
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.runtimeconfig.json
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.dll
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\bin\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\bin\Debug\net7.0\Humanizer.dll
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.AssemblyInfo.cs
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cache
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.RazorAssemblyInfo.cs
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.Projekt_studia2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.build.Projekt_studia2.props
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Projekt_studia2.props
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Projekt_studia2.props
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\obj\Debug\net7.0\scopedcss\bundle\Projekt_studia2.styles.css
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\obj\Debug\net7.0\scopedcss\projectbundle\Projekt_studia2.bundle.scp.css
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.csproj.CopyComplete
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.dll
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\obj\Debug\net7.0\refint\Projekt_studia2.dll
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.pdb
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\obj\Debug\net7.0\Projekt_studia2.genruntimeconfig.cache
+C:\Users\PC\Desktop\Projekt_studia2\Projekt_studia2\obj\Debug\net7.0\ref\Projekt_studia2.dll
