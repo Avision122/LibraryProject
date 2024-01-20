@@ -1,0 +1,529 @@
+13.01.2024 13:01:20: czytelnik - Wykonał akcję Rent
+13.01.2024 13:17:13: czytelnik - Wykonał akcję Rent
+13.01.2024 13:17:14: czytelnik - Akcja Rent zakończona niepowodzeniem - prośba o wypożyczenie tej książki już istnieje!
+13.01.2024 13:25:45: czytelnik - Akcja MyRental zakończona powodzeniem
+13.01.2024 13:26:22: bibliotekarz - Akcja AcceptRental została pomyślnie wykonana!
+13.01.2024 13:26:24: bibliotekarz - Akcja RejectRental zakończona pomyślnie!
+13.01.2024 13:26:25: bibliotekarz - Akcja ManageReturns zakonczona pomyślnie
+13.01.2024 13:26:32: czytelnik - Akcja ProcessReturn zakonczona pomyślnie - prośba o zwrot książki została złożona
+13.01.2024 13:26:36: bibliotekarz - Akcja ManageReturns zakonczona pomyślnie
+13.01.2024 13:26:37: bibliotekarz - Akcja AcceptReturn zakonczona pomyślnie - zwrot książki został zaakceptowany
+13.01.2024 13:26:37: bibliotekarz - Akcja ManageReturns zakonczona pomyślnie
+13.01.2024 13:38:11: bibliotekarz - Akcja Logout zakonczona powodzeniem - użytkownik wylogowany
+13.01.2024 13:38:25: admin - Akcja MyRental zakończona powodzeniem
+13.01.2024 13:38:27: admin - Akcja ManageReturns zakonczona pomyślnie
+13.01.2024 13:38:28: admin - Akcja MyRental zakończona powodzeniem
+13.01.2024 13:38:33: admin - Akcja ManageReturns zakonczona pomyślnie
+13.01.2024 13:38:36: admin - Akcja Logout zakonczona powodzeniem - użytkownik wylogowany
+13.01.2024 13:46:09: admin - Akcja MyRental zakończona powodzeniem
+13.01.2024 14:24:02: Anonym - test
+13.01.2024 14:25:33: admin - test
+13.01.2024 14:29:37: admin - Akcja Login zakończona powodzeniem
+13.01.2024 14:29:48: admin - Akcja Login zakończona niepowodzeniem
+13.01.2024 14:29:57: admins - Akcja Login zakończona niepowodzeniem
+13.01.2024 14:31:27: test - Akcja Register zakończona pomyślnie
+13.01.2024 14:32:55: test - Akcja Register zakończona niepowodzeniem - użytkownik o tej nazwie już istnieje.
+13.01.2024 14:34:06: admin - Akcja Login zakończona powodzeniem
+13.01.2024 14:34:15: admin - Akcja AddUser zakończona niepowodzeniem - użytkownik o tej nazwie już istnieje 
+13.01.2024 14:35:39: admin1 - Akcja AddUser zakończona pomyślnie - użytkownik został pomyślnie dodany
+13.01.2024 14:36:37: admin3 - Akcja AddUser zakończona pomyślnie - użytkownik został pomyślnie dodany
+13.01.2024 14:38:31: admintest - Akcja AddUser zakończona pomyślnie - użytkownik został pomyślnie dodany
+13.01.2024 14:39:28: admintest2 - Akcja AddUser zakończona pomyślnie - użytkownik został pomyślnie dodany
+13.01.2024 14:39:42: admintest2 - Akcja AddUser zakończona niepowodzeniem - użytkownik o tej nazwie już istnieje 
+13.01.2024 14:41:33: admin - Akcja AddUser zakończona pomyślnie - użytkownik został pomyślnie dodany
+13.01.2024 14:41:55: admin - Akcja MyRental zakończona powodzeniem
+13.01.2024 14:42:09: admin - Akcja AddUser zakończona niepowodzeniem - użytkownik o tej nazwie już istnieje 
+13.01.2024 14:43:27: admin - Akcja Logout zakończona pomyślnie - użytkownik wylogowany
+13.01.2024 15:17:00: admin - Akcja Login zakończona powodzeniem
+13.01.2024 15:48:10: admin - Akcja Logout zakończona pomyślnie - użytkownik wylogowany
+13.01.2024 15:48:13: czytelnik - Akcja Login zakończona powodzeniem
+13.01.2024 15:48:44: czytelnik - Akcja MyRental zakończona powodzeniem
+13.01.2024 15:48:46: czytelnik - Akcja Logout zakończona pomyślnie - użytkownik wylogowany
+13.01.2024 15:48:48: admin - Akcja Login zakończona powodzeniem
+13.01.2024 15:49:00: admin - Akcja Logout zakończona pomyślnie - użytkownik wylogowany
+13.01.2024 15:49:03: bibliotekarz - Akcja Login zakończona powodzeniem
+13.01.2024 15:49:45: bibliotekarz - Akcja Logout zakończona pomyślnie - użytkownik wylogowany
+13.01.2024 15:49:48: czytelnik - Akcja Login zakończona powodzeniem
+13.01.2024 15:52:48: czytelnik - Akcja ManageReturns zakonczona pomyślnie
+13.01.2024 15:53:11: czytelnik - Akcja Logout zakończona pomyślnie - użytkownik wylogowany
+13.01.2024 15:53:16: admin - Akcja Login zakończona powodzeniem
+13.01.2024 15:53:22: admin - Akcja ManageReturns zakonczona pomyślnie
+13.01.2024 15:57:30: admin - Akcja Logout zakończona pomyślnie - użytkownik wylogowany
+13.01.2024 15:57:35: czytelnik - Akcja Login zakończona powodzeniem
+13.01.2024 15:59:21: czytelnik - Akcja Logout zakończona pomyślnie - użytkownik wylogowany
+13.01.2024 15:59:25: admin - Akcja Login zakończona powodzeniem
+13.01.2024 15:59:29: admin - Akcja MyRental zakończona powodzeniem
+13.01.2024 15:59:31: admin - Akcja ManageReturns zakonczona pomyślnie
+13.01.2024 15:59:32: admin - Akcja Logout zakończona pomyślnie - użytkownik wylogowany
+13.01.2024 15:59:34: bibliotekarz - Akcja Login zakończona powodzeniem
+13.01.2024 15:59:38: bibliotekarz - Akcja ManageReturns zakonczona pomyślnie
+13.01.2024 16:00:48: bibliotekarz - Akcja Logout zakończona pomyślnie - użytkownik wylogowany
+13.01.2024 16:00:51: czytelnik - Akcja Login zakończona powodzeniem
+13.01.2024 22:38:26: czytelnik - Akcja MyRental zakończona powodzeniem
+13.01.2024 22:38:28: czytelnik - Akcja Logout zakończona pomyślnie - użytkownik wylogowany
+13.01.2024 22:38:32: czytelnik - Akcja Login zakończona powodzeniem
+14.01.2024 12:55:01: czytelnik - Akcja Login zakończona powodzeniem
+14.01.2024 21:34:00: czytelnik - Akcja Logout zakończona pomyślnie - użytkownik wylogowany
+14.01.2024 21:34:01: czytelnik - Akcja Login zakończona powodzeniem
+14.01.2024 21:53:26: czytelnik - Akcja Logout zakończona pomyślnie - użytkownik wylogowany
+14.01.2024 21:53:28: admin - Akcja Login zakończona powodzeniem
+14.01.2024 22:11:10: admin - Akcja Logout zakończona pomyślnie - użytkownik wylogowany
+14.01.2024 22:42:35: admin - Akcja Login zakończona powodzeniem
+14.01.2024 22:44:59: admin - Akcja DisplayUserRentals zakonczona powodzeniem
+14.01.2024 22:45:05: admin - Wykonał akcję Rent
+14.01.2024 22:45:07: admin - Akcja ManageReturns zakonczona pomyślnie
+14.01.2024 22:45:10: admin - Akcja AcceptRental została pomyślnie wykonana!
+14.01.2024 22:45:10: admin - Akcja ManageReturns zakonczona pomyślnie
+14.01.2024 22:45:13: admin - Akcja ProcessReturn zakonczona pomyślnie - prośba o zwrot książki została złożona
+14.01.2024 22:45:16: admin - Akcja ManageReturns zakonczona pomyślnie
+14.01.2024 22:45:17: admin - Akcja AcceptReturn zakonczona pomyślnie - zwrot książki został zaakceptowany
+14.01.2024 22:45:17: admin - Akcja ManageReturns zakonczona pomyślnie
+14.01.2024 22:49:08: admin - Akcja Logout zakończona pomyślnie - użytkownik wylogowany
+14.01.2024 22:49:19: admin - Akcja Login zakończona powodzeniem
+14.01.2024 22:51:37: admin - Wykonał akcję Rent
+15.01.2024 23:26:44: test1 - Akcja Login zakończona powodzeniem
+15.01.2024 23:39:21: test1 - Akcja Logout zakończona pomyślnie - użytkownik wylogowany
+15.01.2024 23:39:24: admin - Akcja Login zakończona powodzeniem
+15.01.2024 23:56:10: admin - Akcja ManageReturns zakonczona pomyślnie
+16.01.2024 19:18:14: admin - Akcja Login zakończona powodzeniem
+16.01.2024 19:18:22: admin - Akcja ManageReturns zakonczona pomyślnie
+16.01.2024 19:18:23: admin - Akcja ManageReturns zakonczona pomyślnie
+16.01.2024 19:24:09: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 19:24:12: admin - Akcja Rent zakończona niepowodzeniem - prośba o wypożyczenie tej książki już istnieje!
+16.01.2024 19:24:13: admin - Akcja AcceptRental została pomyślnie wykonana!
+16.01.2024 19:24:14: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 19:24:18: admin - Akcja DisplayUserRentals zakonczona powodzeniem
+16.01.2024 19:24:20: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 19:24:22: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 19:25:11: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 19:25:22: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 19:25:24: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 19:25:24: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 19:25:26: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 19:25:30: admin - Akcja DisplayUserRentals zakonczona powodzeniem
+16.01.2024 19:32:42: admin - Akcja DisplayUserRentals zakonczona powodzeniem
+16.01.2024 19:32:47: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 19:32:53: admin - Akcja DisplayUserRentals zakonczona powodzeniem
+16.01.2024 19:32:54: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 19:34:01: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 19:34:06: admin - Akcja DisplayUserRentals zakonczona powodzeniem
+16.01.2024 19:58:22: admin - Akcja DeleteBookConfirmed zakonczona pomyślnie
+16.01.2024 20:00:49: admin - Akcja DeleteBookConfirmed zakonczona pomyślnie
+16.01.2024 20:07:33: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 20:07:40: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 20:07:46: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 20:07:49: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 20:07:50: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 20:07:53: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 20:07:54: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 22:29:33: admin - Akcja Login zakończona powodzeniem
+16.01.2024 22:29:41: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 22:29:45: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 22:29:48: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 22:29:56: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 22:30:06: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 22:30:11: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 22:32:51: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 22:32:56: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 22:32:58: admin - Akcja ManageReturns zakonczona pomyślnie
+16.01.2024 23:05:28: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:05:31: admin - Wykonał akcję Rent
+16.01.2024 23:06:07: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:06:09: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:06:11: admin - Akcja Rent osiągneła limit 3 próśb wypożyczenia!
+16.01.2024 23:07:14: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:07:15: admin - Akcja Rent osiągneła limit 3 próśb wypożyczenia!
+16.01.2024 23:07:17: admin - Akcja Rent osiągneła limit 3 próśb wypożyczenia!
+16.01.2024 23:07:18: admin - Akcja Rent osiągneła limit 3 próśb wypożyczenia!
+16.01.2024 23:07:18: admin - Akcja Rent osiągneła limit 3 próśb wypożyczenia!
+16.01.2024 23:07:25: admin - Akcja Rent osiągneła limit 3 próśb wypożyczenia!
+16.01.2024 23:07:28: admin - Akcja RejectRental zakończona pomyślnie!
+16.01.2024 23:07:29: admin - Akcja RejectRental zakończona pomyślnie!
+16.01.2024 23:07:30: admin - Akcja RejectRental zakończona pomyślnie!
+16.01.2024 23:07:30: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:07:32: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:07:32: admin - Wykonał akcję Rent
+16.01.2024 23:07:35: admin - Akcja RejectRental zakończona pomyślnie!
+16.01.2024 23:07:37: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 23:09:21: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:09:31: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:09:47: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 23:09:51: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:10:23: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:10:44: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:10:47: admin - Wykonał akcję Rent
+16.01.2024 23:10:51: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 23:10:53: admin - Akcja RejectRental zakończona pomyślnie!
+16.01.2024 23:10:54: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:10:55: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:11:50: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:11:53: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:12:44: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:12:48: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 23:12:50: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:13:06: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:13:09: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:13:12: admin - Wykonał akcję Rent
+16.01.2024 23:13:12: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:13:16: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:14:28: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:14:31: admin - Wykonał akcję Rent
+16.01.2024 23:14:31: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:14:33: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 23:14:35: admin - Akcja RejectRental zakończona pomyślnie!
+16.01.2024 23:14:36: admin - Akcja RejectRental zakończona pomyślnie!
+16.01.2024 23:14:38: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:15:01: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:15:03: admin - Wykonał akcję Rent
+16.01.2024 23:15:03: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:15:04: admin - Akcja Rent zakończona niepowodzeniem - prośba o wypożyczenie tej książki już istnieje!
+16.01.2024 23:15:42: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:15:43: admin - Akcja Rent zakończona niepowodzeniem - prośba o wypożyczenie tej książki już istnieje!
+16.01.2024 23:15:43: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:16:02: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:16:04: admin - Wykonał akcję Rent
+16.01.2024 23:16:04: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:16:05: admin - Akcja Rent zakończona niepowodzeniem - prośba o wypożyczenie tej książki już istnieje!
+16.01.2024 23:16:05: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:16:07: admin - Akcja Rent zakończona niepowodzeniem - prośba o wypożyczenie tej książki już istnieje!
+16.01.2024 23:16:07: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:16:08: admin - Akcja Rent zakończona niepowodzeniem - prośba o wypożyczenie tej książki już istnieje!
+16.01.2024 23:16:08: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:16:09: admin - Akcja Rent zakończona niepowodzeniem - prośba o wypożyczenie tej książki już istnieje!
+16.01.2024 23:16:09: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:16:09: admin - Wykonał akcję Rent
+16.01.2024 23:16:09: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:16:11: admin - Akcja Rent osiągneła limit 3 próśb wypożyczenia!
+16.01.2024 23:16:11: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:16:57: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:17:02: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:17:05: admin - Akcja Rent osiągneła limit 3 próśb wypożyczenia!
+16.01.2024 23:17:05: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:17:12: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 23:17:15: admin - Akcja RejectRental zakończona pomyślnie!
+16.01.2024 23:17:15: admin - Akcja RejectRental zakończona pomyślnie!
+16.01.2024 23:17:16: admin - Akcja RejectRental zakończona pomyślnie!
+16.01.2024 23:17:17: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:17:18: admin - Wykonał akcję Rent
+16.01.2024 23:17:18: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:17:20: admin - Akcja Rent zakończona niepowodzeniem - prośba o wypożyczenie tej książki już istnieje!
+16.01.2024 23:17:20: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:17:21: admin - Wykonał akcję Rent
+16.01.2024 23:17:21: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:17:22: admin - Akcja Rent zakończona niepowodzeniem - prośba o wypożyczenie tej książki już istnieje!
+16.01.2024 23:17:22: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:17:23: admin - Wykonał akcję Rent
+16.01.2024 23:17:23: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:17:24: admin - Akcja Rent osiągneła limit 3 próśb wypożyczenia!
+16.01.2024 23:17:24: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:17:24: admin - Akcja Rent osiągneła limit 3 próśb wypożyczenia!
+16.01.2024 23:17:24: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:17:25: admin - Akcja Rent osiągneła limit 3 próśb wypożyczenia!
+16.01.2024 23:17:25: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:17:28: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 23:17:30: admin - Akcja AcceptRental została pomyślnie wykonana!
+16.01.2024 23:17:32: admin - Akcja AcceptRental została pomyślnie wykonana!
+16.01.2024 23:17:33: admin - Akcja AcceptRental została pomyślnie wykonana!
+16.01.2024 23:17:34: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:17:36: admin - Wykonał akcję Rent
+16.01.2024 23:17:36: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:17:37: admin - Wykonał akcję Rent
+16.01.2024 23:17:37: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:17:38: admin - Wykonał akcję Rent
+16.01.2024 23:17:38: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:17:43: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 23:17:45: admin - Akcja AcceptRental została pomyślnie wykonana!
+16.01.2024 23:17:45: admin - Akcja AcceptRental została pomyślnie wykonana!
+16.01.2024 23:17:46: admin - Akcja AcceptRental została pomyślnie wykonana!
+16.01.2024 23:17:47: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:17:51: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 23:17:57: admin - Akcja ProcessReturn zakonczona pomyślnie - prośba o zwrot książki została złożona
+16.01.2024 23:17:59: admin - Akcja ProcessReturn zakonczona niepowodzeniem - prośba o zwrot tej książki została już złożona
+16.01.2024 23:18:01: admin - Akcja ProcessReturn zakonczona niepowodzeniem - prośba o zwrot tej książki została już złożona
+16.01.2024 23:18:03: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:18:07: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:18:12: admin - Akcja ManageReturns zakonczona pomyślnie
+16.01.2024 23:18:14: admin - Akcja AcceptReturn zakonczona pomyślnie - zwrot książki został zaakceptowany
+16.01.2024 23:18:14: admin - Akcja ManageReturns zakonczona pomyślnie
+16.01.2024 23:18:16: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:18:19: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 23:18:24: admin - Akcja ProcessReturn zakonczona pomyślnie - prośba o zwrot książki została złożona
+16.01.2024 23:18:26: admin - Akcja ManageReturns zakonczona pomyślnie
+16.01.2024 23:18:27: admin - Akcja AcceptReturn zakonczona pomyślnie - zwrot książki został zaakceptowany
+16.01.2024 23:18:27: admin - Akcja ManageReturns zakonczona pomyślnie
+16.01.2024 23:18:29: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 23:18:35: admin - Akcja ProcessReturn zakonczona pomyślnie - prośba o zwrot książki została złożona
+16.01.2024 23:18:37: admin - Akcja ProcessReturn zakonczona pomyślnie - prośba o zwrot książki została złożona
+16.01.2024 23:18:39: admin - Akcja ProcessReturn zakonczona pomyślnie - prośba o zwrot książki została złożona
+16.01.2024 23:18:40: admin - Akcja ProcessReturn zakonczona niepowodzeniem - prośba o zwrot tej książki została już złożona
+16.01.2024 23:18:42: admin - Akcja ProcessReturn zakonczona niepowodzeniem - prośba o zwrot tej książki została już złożona
+16.01.2024 23:18:44: admin - Akcja ProcessReturn zakonczona niepowodzeniem - prośba o zwrot tej książki została już złożona
+16.01.2024 23:18:46: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 23:18:48: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:18:49: admin - Akcja ManageReturns zakonczona pomyślnie
+16.01.2024 23:18:50: admin - Akcja AcceptReturn zakonczona pomyślnie - zwrot książki został zaakceptowany
+16.01.2024 23:18:50: admin - Akcja ManageReturns zakonczona pomyślnie
+16.01.2024 23:18:51: admin - Akcja AcceptReturn zakonczona pomyślnie - zwrot książki został zaakceptowany
+16.01.2024 23:18:51: admin - Akcja ManageReturns zakonczona pomyślnie
+16.01.2024 23:18:52: admin - Akcja AcceptReturn zakonczona pomyślnie - zwrot książki został zaakceptowany
+16.01.2024 23:18:52: admin - Akcja ManageReturns zakonczona pomyślnie
+16.01.2024 23:18:53: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 23:18:58: admin - Akcja ProcessReturn zakonczona pomyślnie - prośba o zwrot książki została złożona
+16.01.2024 23:18:59: admin - Akcja ProcessReturn zakonczona pomyślnie - prośba o zwrot książki została złożona
+16.01.2024 23:19:00: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:19:07: admin - Akcja ManageReturns zakonczona pomyślnie
+16.01.2024 23:19:09: admin - Akcja AcceptReturn zakonczona pomyślnie - zwrot książki został zaakceptowany
+16.01.2024 23:19:09: admin - Akcja ManageReturns zakonczona pomyślnie
+16.01.2024 23:19:10: admin - Akcja AcceptReturn zakonczona pomyślnie - zwrot książki został zaakceptowany
+16.01.2024 23:19:10: admin - Akcja ManageReturns zakonczona pomyślnie
+16.01.2024 23:19:11: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:20:31: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:20:38: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:20:42: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:20:44: admin - Wykonał akcję Rent
+16.01.2024 23:20:44: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:20:47: admin - Akcja AcceptRental została pomyślnie wykonana!
+16.01.2024 23:20:48: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:27:05: admin - Akcja Logout zakończona pomyślnie - użytkownik wylogowany
+16.01.2024 23:28:49: admin - Akcja Login zakończona powodzeniem
+16.01.2024 23:28:52: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:28:55: admin - Wykonał akcję Rent
+16.01.2024 23:28:55: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:29:00: admin - Akcja AddUser zakończona pomyślnie - użytkownik został pomyślnie dodany
+16.01.2024 23:29:03: admin - Akcja AcceptRental została pomyślnie wykonana!
+16.01.2024 23:29:03: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 23:29:07: admin - Akcja DisplayUserRentals zakonczona powodzeniem
+16.01.2024 23:29:08: admin - Akcja ManageReturns zakonczona pomyślnie
+16.01.2024 23:29:11: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 23:29:17: admin - Akcja ProcessReturn zakonczona pomyślnie - prośba o zwrot książki została złożona
+16.01.2024 23:29:25: admin - Akcja ManageReturns zakonczona pomyślnie
+16.01.2024 23:29:26: admin - Akcja AcceptReturn zakonczona pomyślnie - zwrot książki został zaakceptowany
+16.01.2024 23:29:26: admin - Akcja ManageReturns zakonczona pomyślnie
+16.01.2024 23:31:52: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:33:02: admin - Akcja DeleteUserConfirmed zakończona pomyślnie
+16.01.2024 23:33:08: admin - Akcja ManageReturns zakonczona pomyślnie
+16.01.2024 23:33:10: admin - Akcja ManageReturns zakonczona pomyślnie
+16.01.2024 23:33:16: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 23:33:20: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:33:22: admin - Akcja Index zakonczona pomyslnie
+16.01.2024 23:35:15: admin - Akcja Login zakończona powodzeniem
+16.01.2024 23:35:17: admin - Akcja MyRental zakończona powodzeniem
+16.01.2024 23:35:20: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 9:32:39 AM: admin - Akcja Login zakończona niepowodzeniem
+1/19/2024 9:37:15 AM: admin - Akcja Login zakończona powodzeniem
+1/19/2024 9:37:26 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/19/2024 9:37:34 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/19/2024 9:41:34 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/19/2024 9:44:24 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/19/2024 9:44:30 AM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 9:53:22 AM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 9:53:25 AM: admin - Akcja MyRental zakończona powodzeniem
+1/19/2024 11:02:05 AM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 11:02:13 AM: admin - Akcja MyRental zakończona powodzeniem
+1/19/2024 11:05:02 AM: admin - Akcja MyRental zakończona powodzeniem
+1/19/2024 11:06:56 AM: admin - Akcja MyRental zakończona powodzeniem
+1/19/2024 11:07:02 AM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 11:07:33 AM: admin - Akcja MyRental zakończona powodzeniem
+1/19/2024 11:07:37 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/19/2024 11:07:57 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/19/2024 11:08:00 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/19/2024 11:08:26 AM: admin - Akcja MyRental zakończona powodzeniem
+1/19/2024 11:08:29 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/19/2024 11:09:03 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/19/2024 11:09:51 AM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 11:10:17 AM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 11:11:01 AM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 11:11:40 AM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 11:12:03 AM: admin - Wykonał akcję Add!
+1/19/2024 11:12:05 AM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 11:12:13 AM: admin - Akcja MyRental zakończona powodzeniem
+1/19/2024 11:12:14 AM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 11:12:15 AM: admin - Wykonał akcję Rent
+1/19/2024 11:12:15 AM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 11:12:22 AM: admin - Akcja AcceptRental została pomyślnie wykonana!
+1/19/2024 11:12:26 AM: admin - Akcja MyRental zakończona powodzeniem
+1/19/2024 11:12:32 AM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 11:12:39 AM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 11:14:25 AM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 11:14:44 AM: admin - Akcja MyRental zakończona powodzeniem
+1/19/2024 11:14:54 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/19/2024 11:15:43 AM: admin - Akcja AddUser zakończona pomyślnie - użytkownik został pomyślnie dodany
+1/19/2024 11:15:46 AM: admin - Akcja Logout zakończona pomyślnie - użytkownik wylogowany
+1/19/2024 11:15:54 AM: Bibliotekarz - Akcja Login zakończona powodzeniem
+1/19/2024 11:15:57 AM: Bibliotekarz - Akcja Index zakonczona pomyslnie
+1/19/2024 11:16:01 AM: Bibliotekarz - Akcja ManageReturns zakonczona pomyślnie
+1/19/2024 11:16:03 AM: Bibliotekarz - Akcja Logout zakończona pomyślnie - użytkownik wylogowany
+1/19/2024 11:18:02 AM: admin - Akcja Login zakończona powodzeniem
+1/19/2024 11:20:20 AM: admin - Akcja Logout zakończona pomyślnie - użytkownik wylogowany
+1/19/2024 11:21:34 AM: admin - Akcja Login zakończona powodzeniem
+1/19/2024 11:21:51 AM: admin - Akcja MyRental zakończona powodzeniem
+1/19/2024 11:21:53 AM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 1:38:10 PM: admin - Akcja Login zakończona powodzeniem
+1/19/2024 1:38:19 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 1:38:52 PM: admin - Wykonał akcję Add!
+1/19/2024 1:39:02 PM: admin - Akcja MyRental zakończona powodzeniem
+1/19/2024 1:39:14 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 1:39:25 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 1:40:55 PM: admin - Wykonał akcję Add!
+1/19/2024 1:40:57 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 1:42:35 PM: admin - Akcja Login zakończona powodzeniem
+1/19/2024 1:42:37 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 1:43:05 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 1:43:14 PM: admin - Akcja DisplayUserRentals zakonczona powodzeniem
+1/19/2024 1:43:23 PM: admin - Akcja MyRental zakończona powodzeniem
+1/19/2024 1:43:37 PM: admin - Akcja DeleteBookConfirmed zakonczona pomyślnie
+1/19/2024 1:43:40 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 1:43:40 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 1:59:54 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 2:20:15 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 2:20:19 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 2:26:42 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 5:03:14 PM: admin - Akcja Login zakończona powodzeniem
+1/19/2024 5:03:40 PM: admin - Wykonał akcję Add!
+1/19/2024 5:03:43 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 5:03:48 PM: admin - Wykonał akcję Rent
+1/19/2024 5:03:48 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 5:03:54 PM: admin - Akcja AcceptRental została pomyślnie wykonana!
+1/19/2024 5:04:03 PM: admin - Akcja ProcessReturn zakonczona pomyślnie - prośba o zwrot książki została złożona
+1/19/2024 5:04:06 PM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/19/2024 5:04:08 PM: admin - Akcja AcceptReturn zakonczona pomyślnie - zwrot książki został zaakceptowany
+1/19/2024 5:04:08 PM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/19/2024 5:04:20 PM: admin - Akcja DeleteUserConfirmed zakończona pomyślnie
+1/19/2024 5:04:23 PM: admin - Akcja MyRental zakończona powodzeniem
+1/19/2024 5:04:30 PM: admin - Akcja DisplayUserRentals zakonczona powodzeniem
+1/19/2024 5:05:11 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 5:05:13 PM: admin - Akcja MyRental zakończona powodzeniem
+1/19/2024 5:05:18 PM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/19/2024 6:56:36 PM: admin - Akcja Login zakończona powodzeniem
+1/19/2024 7:02:19 PM: admin - Akcja Logout zakończona pomyślnie - użytkownik wylogowany
+1/19/2024 7:03:47 PM: admin - Akcja Login zakończona powodzeniem
+1/19/2024 7:05:16 PM: admin - Wykonał akcję Add!
+1/19/2024 7:05:22 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 7:05:57 PM: admin - Wykonał akcję Rent
+1/19/2024 7:05:57 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 7:06:56 PM: admin - Akcja AddUser zakończona pomyślnie - użytkownik został pomyślnie dodany
+1/19/2024 7:07:29 PM: admin - Akcja MyRental zakończona powodzeniem
+1/19/2024 7:07:31 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 7:07:33 PM: admin - Akcja Rent zakończona niepowodzeniem - prośba o wypożyczenie tej książki już istnieje!
+1/19/2024 7:07:33 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 7:07:36 PM: admin - Wykonał akcję Rent
+1/19/2024 7:07:36 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 7:07:37 PM: admin - Wykonał akcję Rent
+1/19/2024 7:07:37 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 7:07:38 PM: admin - Akcja Rent osiągneła limit 3 próśb wypożyczenia!
+1/19/2024 7:07:38 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 7:08:01 PM: admin - Akcja RejectRental zakończona pomyślnie!
+1/19/2024 7:08:04 PM: admin - Akcja RejectRental zakończona pomyślnie!
+1/19/2024 7:08:07 PM: admin - Akcja AcceptRental została pomyślnie wykonana!
+1/19/2024 7:08:10 PM: admin - Akcja MyRental zakończona powodzeniem
+1/19/2024 7:08:23 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 7:08:39 PM: admin - Akcja MyRental zakończona powodzeniem
+1/19/2024 7:08:45 PM: admin - Akcja DisplayUserRentals zakonczona powodzeniem
+1/19/2024 7:08:56 PM: admin - Akcja ProcessReturn zakonczona pomyślnie - prośba o zwrot książki została złożona
+1/19/2024 7:08:58 PM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/19/2024 7:09:04 PM: admin - Akcja AcceptReturn zakonczona pomyślnie - zwrot książki został zaakceptowany
+1/19/2024 7:09:04 PM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/19/2024 7:09:10 PM: admin - Akcja DeleteUserConfirmed zakończona pomyślnie
+1/19/2024 7:09:17 PM: admin - Akcja DeleteBookConfirmed zakonczona pomyślnie
+1/19/2024 7:09:19 PM: admin - Akcja MyRental zakończona powodzeniem
+1/19/2024 7:09:24 PM: admin - Akcja ProcessReturn zakonczona niepowodzeniem - nie znaleziono książki
+1/19/2024 7:09:33 PM: admin - Akcja ProcessReturn zakonczona niepowodzeniem - nie znaleziono książki
+1/19/2024 7:09:35 PM: admin - Akcja ProcessReturn zakonczona niepowodzeniem - nie znaleziono książki
+1/19/2024 7:09:38 PM: admin - Akcja MyRental zakończona powodzeniem
+1/19/2024 7:09:43 PM: admin - Akcja MyRental zakończona powodzeniem
+1/19/2024 7:10:33 PM: admin - Akcja MyRental zakończona powodzeniem
+1/19/2024 7:10:42 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 7:10:43 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 7:10:45 PM: admin - Akcja MyRental zakończona powodzeniem
+1/19/2024 7:10:53 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 7:16:37 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 7:16:40 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 7:16:41 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 7:16:46 PM: admin - Akcja Index zakonczona pomyslnie
+1/19/2024 7:16:49 PM: admin - Akcja MyRental zakończona powodzeniem
+1/19/2024 7:21:46 PM: admin - Akcja MyRental zakończona powodzeniem
+1/19/2024 7:21:54 PM: admin - Akcja Index zakonczona pomyslnie
+1/20/2024 7:43:11 AM: admin - Akcja Login zakończona niepowodzeniem
+1/20/2024 7:43:14 AM: admin - Akcja Login zakończona powodzeniem
+1/20/2024 7:43:19 AM: admin - Akcja MyRental zakończona powodzeniem
+1/20/2024 7:43:21 AM: admin - Akcja Index zakonczona pomyslnie
+1/20/2024 7:43:22 AM: admin - Wykonał akcję Rent
+1/20/2024 7:43:22 AM: admin - Akcja Index zakonczona pomyslnie
+1/20/2024 7:47:32 AM: admin - Akcja MyRental zakończona powodzeniem
+1/20/2024 7:49:04 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/20/2024 7:50:31 AM: admin - Akcja Index zakonczona pomyslnie
+1/20/2024 7:50:37 AM: admin - Akcja MyRental zakończona powodzeniem
+1/20/2024 7:50:41 AM: admin - Akcja DisplayUserRentals zakonczona powodzeniem
+1/20/2024 7:50:47 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/20/2024 7:50:51 AM: admin - Akcja AcceptRental została pomyślnie wykonana!
+1/20/2024 7:50:55 AM: admin - Akcja ProcessReturn zakonczona pomyślnie - prośba o zwrot książki została złożona
+1/20/2024 7:50:56 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/20/2024 7:50:57 AM: admin - Akcja AcceptReturn zakonczona pomyślnie - zwrot książki został zaakceptowany
+1/20/2024 7:50:57 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/20/2024 7:53:00 AM: admin - Akcja Index zakonczona pomyslnie
+1/20/2024 7:53:01 AM: admin - Wykonał akcję Rent
+1/20/2024 7:53:01 AM: admin - Akcja Index zakonczona pomyslnie
+1/20/2024 7:53:04 AM: admin - Akcja MyRental zakończona powodzeniem
+1/20/2024 7:53:05 AM: admin - Akcja AcceptRental została pomyślnie wykonana!
+1/20/2024 7:53:06 AM: admin - Akcja MyRental zakończona powodzeniem
+1/20/2024 7:53:09 AM: admin - Akcja ProcessReturn zakonczona pomyślnie - prośba o zwrot książki została złożona
+1/20/2024 7:53:09 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/20/2024 7:53:16 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/20/2024 7:53:17 AM: admin - Akcja AcceptReturn zakonczona pomyślnie - zwrot książki został zaakceptowany
+1/20/2024 7:53:17 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/20/2024 7:56:26 AM: admin - Akcja Index zakonczona pomyslnie
+1/20/2024 7:56:27 AM: admin - Wykonał akcję Rent
+1/20/2024 7:56:27 AM: admin - Akcja Index zakonczona pomyslnie
+1/20/2024 7:56:28 AM: admin - Wykonał akcję Rent
+1/20/2024 7:56:28 AM: admin - Akcja Index zakonczona pomyslnie
+1/20/2024 7:56:29 AM: admin - Wykonał akcję Rent
+1/20/2024 7:56:29 AM: admin - Akcja Index zakonczona pomyslnie
+1/20/2024 7:56:30 AM: admin - Akcja MyRental zakończona powodzeniem
+1/20/2024 7:56:32 AM: admin - Akcja AcceptRental została pomyślnie wykonana!
+1/20/2024 7:56:32 AM: admin - Akcja AcceptRental została pomyślnie wykonana!
+1/20/2024 7:56:33 AM: admin - Akcja AcceptRental została pomyślnie wykonana!
+1/20/2024 7:56:36 AM: admin - Akcja ProcessReturn zakonczona pomyślnie - prośba o zwrot książki została złożona
+1/20/2024 7:56:38 AM: admin - Akcja ProcessReturn zakonczona pomyślnie - prośba o zwrot książki została złożona
+1/20/2024 7:56:40 AM: admin - Akcja ProcessReturn zakonczona pomyślnie - prośba o zwrot książki została złożona
+1/20/2024 7:56:43 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/20/2024 7:56:44 AM: admin - Akcja RejectReturn została pomyślnie wykonana!
+1/20/2024 7:56:44 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/20/2024 7:56:48 AM: admin - Akcja Index zakonczona pomyslnie
+1/20/2024 7:56:51 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/20/2024 7:56:54 AM: admin - Akcja RejectReturn została pomyślnie wykonana!
+1/20/2024 7:56:54 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/20/2024 7:57:00 AM: admin - Akcja RejectReturn została pomyślnie wykonana!
+1/20/2024 7:57:00 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/20/2024 7:57:02 AM: admin - Akcja Index zakonczona pomyslnie
+1/20/2024 7:57:43 AM: admin - Akcja MyRental zakończona powodzeniem
+1/20/2024 7:57:46 AM: admin - Akcja DisplayUserRentals zakonczona powodzeniem
+1/20/2024 7:57:59 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/20/2024 7:58:03 AM: admin - Akcja ProcessReturn zakonczona pomyślnie - prośba o zwrot książki została złożona
+1/20/2024 7:58:03 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/20/2024 7:58:43 AM: admin - Akcja AcceptReturn zakonczona pomyślnie - zwrot książki został zaakceptowany
+1/20/2024 7:58:43 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/20/2024 7:58:46 AM: admin - Akcja Index zakonczona pomyslnie
+1/20/2024 7:59:13 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/20/2024 8:01:56 AM: admin - Akcja Index zakonczona pomyslnie
+1/20/2024 8:02:05 AM: admin - Akcja ProcessReturn zakonczona pomyślnie - prośba o zwrot książki została złożona
+1/20/2024 8:02:07 AM: admin - Akcja ProcessReturn zakonczona pomyślnie - prośba o zwrot książki została złożona
+1/20/2024 8:02:08 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/20/2024 8:02:09 AM: admin - Akcja AcceptReturn zakonczona pomyślnie - zwrot książki został zaakceptowany
+1/20/2024 8:02:09 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/20/2024 8:02:10 AM: admin - Akcja AcceptReturn zakonczona pomyślnie - zwrot książki został zaakceptowany
+1/20/2024 8:02:10 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/20/2024 8:02:15 AM: admin - Akcja DeleteBookConfirmed zakonczona pomyślnie
+1/20/2024 8:02:20 AM: admin - Akcja Index zakonczona pomyslnie
+1/20/2024 8:02:26 AM: admin - Akcja Index zakonczona pomyslnie
+1/20/2024 8:02:29 AM: admin - Akcja Index zakonczona pomyslnie
+1/20/2024 8:02:46 AM: admin - Akcja Index zakonczona pomyslnie
+1/20/2024 8:03:08 AM: admin - Akcja Index zakonczona pomyslnie
+1/20/2024 8:03:12 AM: admin - Akcja MyRental zakończona powodzeniem
+1/20/2024 8:03:16 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/20/2024 8:03:58 AM: admin - Akcja Index zakonczona pomyslnie
+1/20/2024 8:04:00 AM: admin - Akcja Index zakonczona pomyslnie
+1/20/2024 8:04:03 AM: admin - Akcja MyRental zakończona powodzeniem
+1/20/2024 8:04:05 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/20/2024 8:04:37 AM: admin - Akcja ManageReturns zakonczona pomyślnie
+1/20/2024 8:04:39 AM: admin - Akcja MyRental zakończona powodzeniem
+1/20/2024 8:04:41 AM: admin - Akcja Index zakonczona pomyslnie
